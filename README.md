@@ -4,6 +4,8 @@ This Docker image contains Elasticsearch with Shield plugin and basic users for 
 
 It's based on Elasticsearch official image.
 
+You can use [tzoratto/kibana-shield](https://hub.docker.com/r/tzoratto/kibana-shield/) along with this image.
+
 ***
 
 ## Configuration
