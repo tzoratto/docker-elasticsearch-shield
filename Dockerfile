@@ -1,4 +1,4 @@
-FROM elasticsearch:2.3.2
+FROM elasticsearch:2.3.3
 
 MAINTAINER Thomas Zoratto <thomas.zoratto@gmail.com>
 
